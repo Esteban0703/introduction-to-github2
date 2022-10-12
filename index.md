@@ -1,3 +1,3 @@
-# Este es un enabezado h1
-#### Este es un encabezado h4
-###### Este es un encabezado h6
+# Beautiful Yaktocat
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
